@@ -1,1 +1,43 @@
 ejercicios que le dieron a brandom 
+
+1) Suponga que un individuo desea invertir su capital en un banco y desea saber cuanto dinero ganara después de X meses.
+
+El banco paga un interés del 2% mensual.
+
+Realice un algoritmo que permita calcular la ganancia según el numero de meses que el usuario ingrese.
+
+
+2) Realice un algoritmo de PSeInt que permita operar como un cajero automático:
+
+Para poder acceder a consultar el sistema debe validar una contraseña de 4 números.
+
+a) debe permitir consultar el saldo
+
+b) debe permitir girar saldo y mostrar el saldo actualizado
+
+c) debe permitir ingresar saldo a la cuenta
+
+d) cerrar sesión
+
+*saldo inicial $5000
+
+
+3) Programa que calcule la rentabilidad de un negocio en función de sus ingresos y gastos.
+
+4) Programa que calcule la distancia y el tiempo de viaje entre dos ciudades en función de la velocidad promedio y la distancia entre ellas.
+
+5) Programa que calcule la dosis adecuada de un medicamento en función del peso del paciente y la dosis recomendada por kilogramo.
+
+6) Programa que calcule el número de calorías consumidas y quemadas en una sesión de ejercicios en función del tipo de ejercicio y la duración del mismo.
+
+7) Programa que calcule la cantidad de agua necesaria para regar un campo de cultivo en función de la superficie del campo y la cantidad de agua necesaria por metro cuadrado.
+
+8) Programa que calcule el costo de producción de un producto en función de los costos de materiales, mano de obra y otros gastos.
+
+9) Programa que calcule el tiempo de vida útil de un producto en función de su fecha de fabricación y su fecha de caducidad.
+
+10)Programa que calcule el costo de energía eléctrica consumida en un hogar en función del consumo y el costo por kilovatio hora.
+
+11) Programa que calcule el tiempo que tardará un vehículo en recorrer una distancia en función de su velocidad promedio y la distancia.
+
+12) Programa que calcule el índice de masa corporal (IMC) de una persona en función de su peso y estatura.
