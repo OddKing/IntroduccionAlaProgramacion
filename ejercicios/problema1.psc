@@ -12,7 +12,4 @@ Algoritmo problema1
 	//calculare un interes simple
 	ganancia<- montoInvertir*((0.02)*meses)
 	Escribir "este el monto:",ganancia," que se genero en la cantidad de meses ",meses
-	
-	
-	
 FinAlgoritmo
