@@ -18,8 +18,10 @@ Algoritmo CajeroBanco
         leer cPass;
         lNumero <- verdadero;
 		si  Longitud(cPass)  == 4 Entonces
-			Para i <- 0 hasta Longitud(cPass)-1 Hacer
+			Para i <- 1  hasta Longitud(cPass) Hacer
 				cDigito <- SubCadena(cPass,i,i);
+				escribir cDigito
+				escribir cDigito < '0' | cDigito > '9'
 				si cDigito < '0' | cDigito > '9' Entonces
 					lNumero <- Falso;
 				FinSi
